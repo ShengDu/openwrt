@@ -1,3 +1,3 @@
 openwrt
 =======
-python packages for openwrt
+python packages makefile for openwrt
